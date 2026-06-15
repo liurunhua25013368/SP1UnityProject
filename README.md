@@ -6,7 +6,7 @@ In my version, I challenge the assumption that optimal play should exist. In man
 
 This idea was inspired by a real-life experience. Last week my phone was stolen, and because I did not buy AppleCare, I could not get compensation. When I bought the phone, I did not expect it to be stolen, so I did not pay extra for protection. Only after the accident happened did I regret the decision. I wanted to translate this hesitation into a game mechanic.
 
-- **Topics**: Shooting, Destruction, Sprites
+- **Topics**: Shooting, Destruction, Time and live
 - **Version**: Unity 2019.4 (LTS)
-- [**Download**](https://github.com/zigurous/unity-space-invaders-tutorial/archive/refs/heads/main.zip)
-- [**Watch Video**](https://youtu.be/qWDQgmdUzWI)
+- [**Download**] https://git.arts.ac.uk/r-liu0320253/creative-making-term2-notebook-26/tree/main/Sprint-1-Project-Files
+- [**Watch Video**]https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0f1d603a-99d2-4ab6-969d-b4690130b22c
